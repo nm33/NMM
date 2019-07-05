@@ -29,8 +29,11 @@ cd NMM && npm start
 --------------------------------------
 👉คำสั่ง : !หีแตด👈
 MODIFY:BY:NN 
+
 VK:SELFBOT
+
 AVENGRES:BOT
 
 THANK YOU😄
+
 #บินแม่งเลย
