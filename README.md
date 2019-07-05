@@ -20,6 +20,7 @@ cd NMM && npm install
 npm start
 -------------------------------------
 วิธีแก้ Mid Adminbot
+
 cd NMM && cd src && nano main.js
 
 เข้าไปแก้mid วิธีออก CTRL+X+Y
